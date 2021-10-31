@@ -1,6 +1,6 @@
 ---
 title: Ho-Yi Chung
-role: Research Assistant @ National Chiao Tung University(NCTU)
+role: Research Assistant @ NCTU
 bio: My research interests include distributed software systems, networking and
   cybersecurity.
 interests:
@@ -34,6 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Chung is a research assistant at the National Chiao Tung University(NCTU). His research interests include systems, networking and cybersecurity. He leads the a research team of 20+ graduation students, which analyzed badminton players by movement and tactical analysis based on shot-by-shot microscopic data and develops systems .
+Chung is a research assistant at the National Chiao Tung University (NCTU). His research interests include systems, networking and cybersecurity. He leads the a research team of 20+ graduation students, which analyzed badminton players by movement and tactical analysis based on shot-by-shot microscopic data and develops systems .
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
