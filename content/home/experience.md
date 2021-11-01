@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -44,8 +44,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2019-12-31'
     description: |2- 
-      - Captured network packages to examine the performance of routers.
-      - Developed test cases and test scripts to ensure the detection of spyware, virus, and vulnerability.
+      - Built18testing features to test the throughput of routers and visualized by nmon analyser.
+      - Utilized packet players andshell scriptsto monitor the detection rate of spyware, virus, and vulner
 
   - title: IOT Front-End Intern
     company: 3drens Startup Company

@@ -2,16 +2,13 @@
 title: Ho-Yi Chung
 role: Research Assistant @ NCTU
 avatar_filename: avatar.jpg
-bio: My research interests include distributed software systems, networking and
+bio: My research interests include distributed software system, networking and
   cybersecurity.
 interests:
-  - Systems
+  - System
   - Networking
   - Cybersecurity
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/Holychung
@@ -31,10 +28,14 @@ education:
     - course: B.S. in Computer Science
       institution: National Chiao Tung University
       year: 2020
-email: ""
+email: "mickey94378@gmail.com"
 superuser: true
 highlight_name: true
 ---
-Chung is a research assistant at the National Chiao Tung University (NCTU). His research interests include systems, networking and cybersecurity. He leads the a research team of 20+ graduation students, which analyzed badminton players by movement and tactical analysis based on shot-by-shot microscopic data and develops systems .
+
+Hi! I'm currently a research assistant at National Chiao Tung University (NCTU), and I lead a research team of 20+ graduation students.
+Besides, I received my bachelor’s degree in Computer Science from NCTU. My undergraduate project was about SDN at D-Link NCTU Joint Research Center. 
+
+Also, I worked as an intern at 3drens Startup Company and Trend Micro Inc., a multinational cybersecurity company. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
