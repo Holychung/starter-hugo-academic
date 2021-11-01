@@ -1,0 +1,42 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "2D to 3D Maps With Raycaster"
+summary: |
+  - An efficient and lean implementation of the raycasting algorithm to create 3D perspective in a 2D map.
+  - Improved the functions on floating-point and fixed-point (8-bit precision) versions.
+tags: [C, System]
+categories: []
+date: 2021-11-01T16:36:39+08:00
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+links:
+- name: code
+  url: https://github.com/Holychung/raycaster
+  icon_pack: fab
+  icon: github
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---

@@ -72,5 +72,5 @@ experience:
       - Verified 30+ functions of the flow, group, and meter tables of switches in different SDNs.
 
 design:
-  columns: '2'
+  columns: '1'
 ---
