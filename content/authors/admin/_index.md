@@ -1,5 +1,5 @@
 ---
-title: Ho-Yi Chung
+title: Ho-Yi Chung@
 role: Research Assistant @ NCTU
 avatar_filename: avatar.jpg
 bio: My research interests include distributed software systems, networking and
