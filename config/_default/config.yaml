@@ -5,7 +5,7 @@
 
 title: Ho-Yi Chung # Website name
 baseurl: 'https://holychung.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Ho-Yi Chung' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

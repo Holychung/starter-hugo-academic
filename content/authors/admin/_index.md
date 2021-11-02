@@ -33,9 +33,10 @@ superuser: true
 highlight_name: true
 ---
 
-Hi! I'm currently a research assistant at National Chiao Tung University (NCTU), and I lead a research team of 20+ graduation students.
-Besides, I received my bachelor’s degree in Computer Science from NCTU. My undergraduate project was about SDN at D-Link NCTU Joint Research Center. 
+I am currently a research assistant at National Chiao Tung University (NCTU) and lead a research team of 20+ graduation students, developing the software architecture for sports learning, training, and video replay.
 
-Also, I worked as an intern at 3drens Startup Company and Trend Micro Inc., a multinational cybersecurity company. 
+Besides, I received my bachelor’s degree in Computer Science from NCTU. My undergraduate project was developing SDN-IP application on ONOS at D-Link NCTU Joint Research Center. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Previously, I worked as an IoT front-end intern at [3drens](http://www.3drens.com/) Startup Company and testing intern at [Trend Micro Inc](https://www.trendmicro.com/en_us/business.html).
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
