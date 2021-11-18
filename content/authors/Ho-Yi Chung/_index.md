@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed software system, networking and
   cybersecurity.
 interests:
-  - System
+  - Software System
   - Networking
-  - Software Development
+  - DevOps
 social:
   - icon: github
     icon_pack: fab
@@ -33,10 +33,10 @@ superuser: true
 highlight_name: true
 ---
 
-I am currently a research assistant at National Chiao Tung University (NCTU) and lead a research team of 20+ graduation students, developing the software architecture for sports learning, training, and video replay.
-
-Besides, I received my bachelor’s degree in Computer Science from NCTU. My undergraduate project was developing SDN-IP application on ONOS at D-Link NCTU Joint Research Center. 
+I am currently a research assistant at National Chiao Tung University (NCTU) and lead a research team of 20+ graduation students to develop TrackNet for high-speed tiny object tracking applications. The research won **2020 Future Tech Award** from Ministry of Science and Technology.
 
 Previously, I worked as an IoT front-end intern at [3drens](http://www.3drens.com/) Startup Company and testing intern at [Trend Micro Inc](https://www.trendmicro.com/en_us/business.html).
+
+Besides, I received my bachelor’s degree in Computer Science from NCTU. My undergraduate project was developing SDN-IP application on ONOS at [D-Link Inc](https://us.dlink.com/en/consumer).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
