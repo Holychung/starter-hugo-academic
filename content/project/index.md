@@ -1,21 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "OpenFlow Switch and ONOS Application Implementation"
-summary: |2-
-  - Designed and implemented network topology for SDN-IP application on physical network environment.
-  - Emulated the network environment with Quagga to provide implementations of BGP.
-  - Verified functions of the flow, group, and meter tables of switches in different SDNs.
-  <img style="width: auto;
-    height: auto;
-    margin: 0 auto;
-    max-width:none;
-    max-height:none;" src="https://i.imgur.com/bS4Kvfh.png" alt="">
-
+title: "Project"
+summary: ""
 authors: []
-tags: [SDN, Network, Shell Script]
+tags: []
 categories: []
-date: 2021-11-01T16:55:45+08:00
+date: 2021-11-18T13:34:31+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

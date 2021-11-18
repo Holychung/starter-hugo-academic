@@ -29,16 +29,13 @@ image:
   preview_only: false
 
 authors:
-- admin
-- 吳恩達
+- Ho-Yi Chung
 
 tags:
-- Academic
-- 开源
+- Software
 
 categories:
-- Demo
-- 教程
+- Academic Personal Website
 ---
 
 ## Overview

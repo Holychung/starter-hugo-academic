@@ -1,21 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "OpenFlow Switch and ONOS Application Implementation"
-summary: |2-
-  - Designed and implemented network topology for SDN-IP application on physical network environment.
-  - Emulated the network environment with Quagga to provide implementations of BGP.
-  - Verified functions of the flow, group, and meter tables of switches in different SDNs.
-  <img style="width: auto;
-    height: auto;
-    margin: 0 auto;
-    max-width:none;
-    max-height:none;" src="https://i.imgur.com/bS4Kvfh.png" alt="">
-
-authors: []
-tags: [SDN, Network, Shell Script]
+title: "GeoFencing"
+summary: |
+  - Developed CMS frontend and App service using ReactJS, Redux and Typescript.
+  - Leveraged IoT devices to track E-scooters’ real-time GPS position and visualized via Maps JavaScript API.
+  <div style="width:80%; margin-left: 25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Mll1idxg6f0?autoplay=1&playlist=Mll1idxg6f0&loop=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+tags: [IoT, Frontend, React]
 categories: []
-date: 2021-11-01T16:55:45+08:00
+date: 2021-11-01T16:36:39+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,10 +24,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+# - name: code
+#  url: 
+#  icon_pack: fab
+#  icon: github
 
 url_code: ""
 url_pdf: ""

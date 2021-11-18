@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Network
+    tag: Network
+  - name: Open Source
+    tag: Open Source
+  - name: C
+    tag: C
+  - name: System
+    tag: System
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
