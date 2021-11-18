@@ -13,7 +13,7 @@ summary: |2-
     max-height:none;" src="https://i.imgur.com/bS4Kvfh.png" alt="">
 
 authors: []
-tags: [SDN, Network, Shell Script]
+tags: [SDN, Network, Shell Script, ONOS]
 categories: []
 date: 2021-11-01T16:55:45+08:00
 

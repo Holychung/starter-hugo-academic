@@ -7,7 +7,7 @@ bio: My research interests include distributed software system, networking and
 interests:
   - System
   - Networking
-  - Cybersecurity
+  - Software Development
 social:
   - icon: github
     icon_pack: fab

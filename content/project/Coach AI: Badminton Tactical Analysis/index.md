@@ -19,7 +19,7 @@ summary: |
       max-height:none;" src="https://i.imgur.com/buDPYBT.png" alt="">
     </div>
   </div>
-tags: [System]
+tags: [System, React, Flask, MySQL, Frontend, Backend]
 categories: []
 date: 2021-10-01T16:36:39+08:00
 
