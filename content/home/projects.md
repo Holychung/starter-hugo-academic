@@ -29,13 +29,13 @@ content:
     tag: '*'
   - name: Network
     tag: Network
-  - name: Open Source
-    tag: Open Source
-  - name: C
-    tag: C
   - name: System
     tag: System
-
+  - name: C
+    tag: C
+  - name: Open Source
+  tag: Open Source
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
