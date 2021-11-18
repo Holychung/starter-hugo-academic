@@ -3,6 +3,7 @@
 
 title: "Instant Messaging App on AWS"
 summary: |2-
+  Distributed System & Cloud Service
   - Implemented instant messaging system with AWS EC2, and ActiveMQ.
   - Developed load balancing architecture that can dynamically arrange different number of instances.
   <img style="width: auto;

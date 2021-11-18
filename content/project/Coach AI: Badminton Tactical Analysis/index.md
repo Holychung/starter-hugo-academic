@@ -2,7 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Coach AI: Badminton Tactical Analysis"
-summary: |
+summary: |2-
+  Research Lead & System Architect & Network Security
   - Won **2020 Future Tech Award** among 600+ teams of Ministry of Science and Technology.
   - Led 20 graduate students research team to develop TrackNet for high-speed tiny object tracking applications.
   - Integrated and modularized backend architecture using WSGI HTTP Server, Flask, Apache, and MySQL.
