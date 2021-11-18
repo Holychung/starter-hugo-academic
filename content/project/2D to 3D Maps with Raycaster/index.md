@@ -8,7 +8,7 @@ summary: |
   <div style="width:80%; margin-left: 25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/qfeCGetFX5o?autoplay=1&playlist=qfeCGetFX5o&loop=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 tags: [C, C++, Open Source, System]
 categories: []
-date: 2021-11-01T16:36:39+08:00
+date: 2021-09-25T16:36:39+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,11 +23,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: code
-  url: https://github.com/Holychung/raycaster
-  icon_pack: fab
-  icon: github
+#links:
+#- name: code
+#  url: https://github.com/Holychung/raycaster
+#  icon_pack: fab
+#  icon: github
 
 url_code: ""
 url_pdf: ""

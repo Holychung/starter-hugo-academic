@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "AWS Based Instant Messenger"
+title: "Instant Messaging App on AWS"
 summary: |2-
   - Implemented instant messaging system with AWS EC2, and ActiveMQ.
   - Developed load balancing architecture that can dynamically arrange different number of instances.
@@ -13,7 +13,7 @@ summary: |2-
 authors: []
 tags: [Network, Python, Cloud, System]
 categories: []
-date: 2021-12-01T17:16:13+08:00
+date: 2021-09-15T17:16:13+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
