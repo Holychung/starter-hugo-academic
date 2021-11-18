@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "【Tutorial】Oh My Zsh! + Powerlevel10K = Best Terminal!"
+title: "【Tutorial】Oh My Zsh + Powerlevel10K = Best Terminal!"
 subtitle: ""
 summary: "In this tutorial I will show you how you can install the ZSH shell on any operating system and customize it with ohmyzsh framework and PowerLeve10K theme."
 authors: []
