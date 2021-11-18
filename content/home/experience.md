@@ -30,10 +30,9 @@ experience:
     date_start: '2021-07-01'
     date_end: ''
     description: |2-
-        - Led a research team of 20+ graduate students among five laboratories.
-        - Analyzed badminton players by movement and tactical analysis based on shot-by-shot microscopic data.
-        - Improved the SEO best practices and accessibility by 21% by optimizing critical rendering paths.
-        - Integrated and modularized the architecture by Flask and ReactJS and visualized the analysis results.
+        - Won 2020 Future Tech Award among 600+ teams of Ministry of Science and Technology.
+        - Led 20 graduate students research team to develop TrackNet for high-speed tiny object tracking applications.
+        - Integrated and modularized backend architecture using WSGI HTTP Server, Flask, Apache, and MySQL.
         - Enhanced software security by preventing SQL injection, cross-site scripting and CSRF.
 
   - title: Testing Intern
@@ -44,8 +43,8 @@ experience:
     date_start: '2019-09-01'
     date_end: '2019-12-31'
     description: |2- 
-      - Built18testing features to test the throughput of routers and visualized by nmon analyser.
-      - Utilized packet players andshell scriptsto monitor the detection rate of spyware, virus, and vulner
+      - Built 18 testing features to test the throughput of routers and visualized by nmon analyser.
+      - Utilized packet players andshell scriptsto monitor the detection rate of spyware, virus, and vulnerability.
 
   - title: IOT Front-End Intern
     company: 3drens Startup Company
@@ -57,7 +56,7 @@ experience:
     description: |2- 
       - Developed the CMS front-end and App service via ReactJS and Redux and Typescript.
       - Leveraged IoT devices to track E-scooters’ real-time GPS position and visualized via Maps JavaScript API.
-      - Solved 63 tasks in two months through implementing new features and resolving issues.
+      - Solved 63 tasks in two months through developing features such as Geo-fencing, heat map, and dashboard.
 
   - title: SDN Intern
     company: D-Link NCTU Joint Research Center

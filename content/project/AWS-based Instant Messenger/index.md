@@ -5,6 +5,11 @@ title: "AWS Based Instant Messenger"
 summary: |2-
   - Implemented a chatting system with AWS EC2 and RDS
   - Balanced the workload by dynamically arranging different number of running instances
+  <img style="width: auto;
+    height: auto;
+    margin: 0 auto;
+    max-width:60%;
+    max-height:none;" src="https://i.imgur.com/4SMyyyt.png" alt="">
 authors: []
 tags: []
 categories: []
