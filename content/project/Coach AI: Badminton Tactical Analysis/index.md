@@ -20,7 +20,7 @@ summary: |2-
       max-height:none;" src="https://i.imgur.com/buDPYBT.png" alt="">
     </div>
   </div>
-tags: [System, React, Flask, MySQL, Frontend, Backend]
+tags: [Deep Learning, Tracknet, System, Full Stack, WSGI, MySQL]
 categories: []
 date: 2021-10-01T16:36:39+08:00
 
