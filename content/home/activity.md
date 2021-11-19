@@ -25,7 +25,7 @@ experience:
   - title: NCTU+ Student Organization
     company: NCTU
     company_url: ''
-    company_logo: nctu
+    company_logo: plus
     location: Hsinchu, Taiwan
     date_start: '2017-07-01'
     date_end: '2019-06-30'
@@ -37,11 +37,11 @@ experience:
   - title: BambooFox CTF Student Club
     company: NCTU
     company_url: ''
-    company_logo: Trend-Micro-Logo
+    company_logo: ''
     location: Hsinchu, Taiwan
     date_start: '2020-09-01'
     date_end: '2020-12-31'
-    description: |2- 
+    description: |2-
       - Found and attacked website vulnerabilities by CSRF, SQL injection, Local File Inclusion.
       - Implemented padding oracle attack on block cipher mode.
 

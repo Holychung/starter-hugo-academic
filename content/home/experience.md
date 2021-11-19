@@ -42,7 +42,7 @@ experience:
     location: Hsinchu, Taiwan
     date_start: '2019-09-01'
     date_end: '2019-12-31'
-    description: |2- 
+    description: |2-
       - Built 18 testing features to test the throughput of routers and visualized by nmon analyser.
       - Utilized packet players andshell scriptsto monitor the detection rate of spyware, virus, and vulnerability.
 
@@ -53,7 +53,7 @@ experience:
     location: Taipei, Taiwan
     date_start: '2019-07-01'
     date_end: '2019-08-31'
-    description: |2- 
+    description: |2-
       - Developed the CMS front-end and App service via ReactJS and Redux and Typescript.
       - Leveraged IoT devices to track E-scooters’ real-time GPS position and visualized via Maps JavaScript API.
       - Solved 63 tasks in two months through developing features such as Geo-fencing, heat map, and dashboard.
@@ -65,7 +65,7 @@ experience:
     location: Hsinchu, Taiwan
     date_start: '2019-01-01'
     date_end: '2019-06-30'
-    description: |2- 
+    description: |2-
       - Built SDN-IP application to talk BGP with routers to exchange traffic between different external ASes.
       - Emulated BGP routing and realistic virtual networks by Quagga and Mininet.
       - Verified 30+ functions of the flow, group, and meter tables of switches in different SDNs.
