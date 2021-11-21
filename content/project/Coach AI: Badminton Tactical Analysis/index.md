@@ -55,3 +55,18 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+- Won **2020 Future Tech Award** among 600+ teams of Ministry of Science and Technology.
+- Led 20 graduate students research team to develop TrackNet for high-speed tiny object tracking applications.
+- Integrated and modularized backend architecture using WSGI HTTP Server, Flask, Apache, and MySQL.
+- Enhanced software security by preventing SQL injection, cross-site scripting and CSRF.
+<div style="width:100%; margin-left: 0;">
+  
+  <iframe width="100%" height="450" src="https://www.youtube.com/embed/8IVIQpiT5Rc?autoplay=1&playlist=8IVIQpiT5Rc&loop=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <img style="width: auto;
+    height: auto;
+    margin: 0 0;
+    max-width: 100%;
+    max-height:none;" src="https://i.imgur.com/buDPYBT.png" alt="">
+  
+</div>

@@ -42,3 +42,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+- Implemented ray casting algorithm to create 3D perspective in 2D map with C++ and SDL Library.
+- Contributed to open source project by solving 3 floating-point overflow issues.
+<div style="width:80%; margin-left: 25%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/qfeCGetFX5o?autoplay=1&playlist=qfeCGetFX5o&loop=1&controls=0&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

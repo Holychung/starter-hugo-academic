@@ -47,3 +47,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+- Implemented instant messaging system with AWS EC2, and ActiveMQ.
+- Developed load balancing architecture that can dynamically arrange different number of instances.
+<img style="width: auto;
+  height: auto;
+  margin: 0 auto;
+  max-width:100%;
+  max-height:none;" src="https://i.imgur.com/4SMyyyt.png" alt="">
