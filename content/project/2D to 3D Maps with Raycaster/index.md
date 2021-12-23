@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2D to 3D Maps With Raycaster"
+title: "Open Source Project: 2D to 3D Maps With Raycaster"
 summary: |2-
   Open Source Contrbution
   - Implemented ray casting algorithm to create 3D perspective in 2D map with C++ and SDL Library.

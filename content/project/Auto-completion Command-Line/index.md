@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Auto Completion Command Line"
+title: "Open Source Project: Auto Completion Command Line"
 summary: |2-
   Open Source Contrbution
   - Implemented line editing tool with C by studying ISO/IEC 9899 standard.
