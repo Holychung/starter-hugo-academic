@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: NCTU+ Student Organization
+  - title: Open Source Community - NCTU+
     company: NCTU
     company_url: ''
     company_logo: plus
@@ -34,7 +34,7 @@ experience:
       - Developed and reconstructed the features of course planning, course advising, GPA calculating.
       - Lectured 50+ students on Javascript and database architecture.
 
-  - title: BambooFox CTF Student Club
+  - title: BambooFox CTF Club
     company: NCTU
     company_url: ''
     company_logo: ''

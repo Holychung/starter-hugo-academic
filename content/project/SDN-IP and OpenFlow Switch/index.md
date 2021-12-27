@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SDN-IP and OpenFlow Switch"
+title: "Company Project: SDN-IP and OpenFlow Switch"
 summary: |2-
   SDN & Open Network Operating System
   - Designed and implemented network topology for SDN-IP application on physical network environment.
