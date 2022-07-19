@@ -22,20 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: Full Stack Developer
     company: Network Optimization Lab, NCTU
     company_url: ''
     company_logo: nctu
     location: Hsinchu, Taiwan
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: |2-
-        - Won 2020 Future Tech Award among 600+ teams of Ministry of Science and Technology.
-        - Led 20 graduate students research team to develop TrackNet for high-speed tiny object tracking applications.
-        - Integrated and modularized backend architecture using WSGI HTTP Server, Flask, Apache, and MySQL.
-        - Enhanced software security by preventing SQL injection, cross-site scripting and CSRF.
+        - Led a team of 20+ graduate students and developed a deep learning network for high-speed and tiny objects tracking to analyze badminton contests and the performance of national athletes of the 2020 Tokyo Olympics
+        - Reduced the average data processing time from one day to three hours by integrating backend architectures and
+        designing RESTful APIs with WSGI HTTP Server, Flask, Apache, and MySQL
+        - Refactored the frontend using React.js, Redux; cooperated with the designer to redesign the website workflow
+        - Implemented authentication workflow with Google OAuth by using JWT and Flask Session
+        - Won 2020 Future Tech Award among 600+ teams of Ministry of Science and Technology
 
-  - title: Testing Intern
+  - title: Security Testing Intern
     company: Trend Micro Inc.
     company_url: 'https://www.trendmicro.com/en_us/business.html'
     company_logo: Trend-Micro-Logo
@@ -43,10 +45,10 @@ experience:
     date_start: '2019-09-01'
     date_end: '2019-12-31'
     description: |2-
-      - Built 18 testing features to test the throughput of routers and visualized by nmon analyser.
-      - Utilized packet players andshell scriptsto monitor the detection rate of spyware, virus, and vulnerability.
+      - Introduced 18+ testing features for multiple platforms of company software to ensure all products’ performance, security, and log collection
+      - Utilized Packet Player and Shell scripts to monitor the throughput and detection rate of spyware, and virus
 
-  - title: IOT Front-End Intern
+  - title: IoT Frontend Intern
     company: 3drens Startup Company
     company_url: 'http://www.3drens.com/'
     company_logo: 3drens
@@ -54,11 +56,11 @@ experience:
     date_start: '2019-07-01'
     date_end: '2019-08-31'
     description: |2-
-      - Developed the CMS front-end and App service via ReactJS and Redux and Typescript.
-      - Leveraged IoT devices to track E-scooters’ real-time GPS position and visualized via Maps JavaScript API.
-      - Solved 63 tasks in two months through developing features such as Geo-fencing, heat map, and dashboard.
+      - Visualized E-scooters’ real-time GPS positions on Google Maps with IoT devices, Maps JavaScript API, React.js
+      - Developed the frontend of Content Management System (CMS) such as Geo-fencing, Heatmap, Dashboard
+      - Solved cross-platform (iOS, Android) authentication problems with Facebook OAuth and In-App browser
 
-  - title: SDN Intern
+  - title: Software-Defined Network (SDN) Intern
     company: D-Link NCTU Joint Research Center
     company_url: 'https://www.dlink.com/en/consumer'
     company_logo: D-Link-Logo.wine
@@ -66,9 +68,8 @@ experience:
     date_start: '2019-01-01'
     date_end: '2019-06-30'
     description: |2-
-      - Built SDN-IP application to talk BGP with routers to exchange traffic between different external ASes.
-      - Emulated BGP routing and realistic virtual networks by Quagga and Mininet.
-      - Verified 30+ functions of the flow, group, and meter tables of switches in different SDNs.
+      - Proposed and achieved an SDN-IP architecture by emulating BGP routing and realistic virtual networks on virtual machines with ONOS (SDN controller), Quagga, Mininet, and Python
+      - Engineered different network topology to verify 30+ functions of flow and group tables on SDN-enabled switches
 
 design:
   columns: '1'

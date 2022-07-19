@@ -30,9 +30,8 @@ experience:
     date_start: '2017-07-01'
     date_end: '2019-06-30'
     description: |2-
-      - Led front-end team of the website, which was utilized by 95%+ (5000+) NCTU students.
-      - Developed and reconstructed the features of course planning, course advising, GPA calculating.
-      - Lectured 50+ students on Javascript and database architecture.
+      - Led a frontend team of 10+ people to develop a website for course planning, course advising, and GPA calculation
+      - Achieved a 95%+ (5000+) usage of NCTU students, obtaining annual funds from Alumni Association
 
   - title: BambooFox CTF Club
     company: NCTU

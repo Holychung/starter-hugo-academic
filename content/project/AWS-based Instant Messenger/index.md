@@ -12,7 +12,7 @@ summary: |2-
     max-width:60%;
     max-height:none;" src="https://i.imgur.com/4SMyyyt.png" alt="">
 authors: []
-tags: [Network, Python, Cloud, System]
+tags: [Network, Python, Cloud]
 categories: []
 date: 2021-09-01T17:16:13+08:00
 

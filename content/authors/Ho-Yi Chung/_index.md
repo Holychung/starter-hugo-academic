@@ -1,13 +1,13 @@
 ---
 title: Ho-Yi Chung
-role: Research Assistant @ NCTU
+role: Graduate Student @ NYU
 avatar_filename: avatar.jpg
 bio: My research interests include distributed software system, networking and
   cybersecurity.
 interests:
-  - Software System
-  - Networking
   - DevOps
+  - Cloud Computing
+  - Networking
 social:
   - icon: github
     icon_pack: fab
@@ -21,10 +21,13 @@ social:
     icon_pack: fab
     icon: medium
 organizations:
-  - name: National Chiao Tung University
-    url: https://www.nycu.edu.tw/
+  - name: New York University
+    url: https://engineering.nyu.edu/
 education:
   courses:
+    - course: M.S. in Computer Engineering
+      institution: New York University
+      year: 2024
     - course: B.S. in Computer Science
       institution: National Chiao Tung University
       year: 2020
@@ -33,10 +36,10 @@ superuser: true
 highlight_name: true
 ---
 
-I am currently a research assistant at National Chiao Tung University (NCTU) and lead a research team of 20+ graduation students to develop TrackNet for high-speed tiny object tracking applications. The research won **2020 Future Tech Award** from Ministry of Science and Technology.
+Hi! I'm pursuing my master degree at New York University (NYU) in Computer Engineering.
 
-Previously, I worked as an IoT front-end intern at [3drens](http://www.3drens.com/) Startup Company and testing intern at [Trend Micro Inc](https://www.trendmicro.com/en_us/business.html).
+During my undergraduate years, I participated an open source project as a frontend lead and achieved a 95%+ (5000+) usage of NCTU students, obtaining annual funds from Alumni Association
 
-Besides, I received my bachelor’s degree in Computer Science from NCTU. My undergraduate project was developing SDN-IP application on ONOS at [D-Link Inc](https://us.dlink.com/en/consumer).
+These years I also had internship at [Trend Micro Inc.](https://www.trendmicro.com/en_us/business.html), [D-Link Inc.](https://us.dlink.com/en/consumer), and 3drens, and my priority is to employ microservice architecture with Kubernetes to construct reliable and flexible service.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

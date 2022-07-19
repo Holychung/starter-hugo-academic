@@ -49,9 +49,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-- Designed and implemented network topology for SDN-IP application on physical network environment.
-- Emulated the network environment with Quagga to provide implementations of BGP.
-- Verified functions of the flow, group, and meter tables of switches in different SDNs.
+- Proposed and achieved an SDN-IP architecture by emulating BGP routing and realistic virtual networks on virtual machines with ONOS (SDN controller), Quagga, Mininet, and Python
+- Engineered different network topology to verify 30+ functions of flow and group tables on SDN-enabled switches
 <img style="width: auto;
   height: auto;
   margin: 0 auto;
