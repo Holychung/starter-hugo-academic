@@ -36,9 +36,11 @@ superuser: true
 highlight_name: true
 ---
 
-Hi! I'm pursuing my master degree at New York University (NYU) in Computer Engineering.
+Hi! I'm a Master’s student at New York University (NYU) and a former SDE intern at Amazon.
 
-During my undergraduate years, I participated an open source project as a frontend lead and achieved a 95%+ (5000+) usage of NCTU students, obtaining annual funds from Alumni Association
+At Amazon, I was part of the Datapath infra team, and designed an overall architecture that integrates an internal service with a non-blocking network I/O system, and authenticated by an OAuth-based solution.
+
+<!-- During my undergraduate years, I participated an open source project as a frontend lead and achieved a 95%+ (5000+) usage of NCTU students, obtaining annual funds from Alumni Association -->
 
 These years I also had internship at [Trend Micro Inc.](https://www.trendmicro.com/en_us/business.html), [D-Link Inc.](https://us.dlink.com/en/consumer), and 3drens, and my priority is to employ microservice architecture with Kubernetes to construct reliable and flexible service.
 
